@@ -1,0 +1,15 @@
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.csproj.AssemblyReference.cache
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.AssemblyInfoInputs.cache
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.AssemblyInfo.cs
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.csproj.CoreCompileInputs.cache
+F:\MVC Solution\MVC.BLL\bin\Debug\net5.0\MVC.BLL.deps.json
+F:\MVC Solution\MVC.BLL\bin\Debug\net5.0\MVC.BLL.dll
+F:\MVC Solution\MVC.BLL\bin\Debug\net5.0\MVC.BLL.pdb
+F:\MVC Solution\MVC.BLL\bin\Debug\net5.0\MVC.DAL.dll
+F:\MVC Solution\MVC.BLL\bin\Debug\net5.0\MVC.DAL.pdb
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.csproj.CopyComplete
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.dll
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\refint\MVC.BLL.dll
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\MVC.BLL.pdb
+F:\MVC Solution\MVC.BLL\obj\Debug\net5.0\ref\MVC.BLL.dll

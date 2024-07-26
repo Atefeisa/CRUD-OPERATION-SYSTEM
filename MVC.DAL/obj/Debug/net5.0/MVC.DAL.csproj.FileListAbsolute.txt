@@ -1,0 +1,15 @@
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.AssemblyReference.cache
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfoInputs.cache
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfo.cs
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.CoreCompileInputs.cache
+F:\MVC Solution\MVC.DAL\bin\Debug\net5.0\MVC.DAL.deps.json
+F:\MVC Solution\MVC.DAL\bin\Debug\net5.0\MVC.DAL.runtimeconfig.json
+F:\MVC Solution\MVC.DAL\bin\Debug\net5.0\MVC.DAL.runtimeconfig.dev.json
+F:\MVC Solution\MVC.DAL\bin\Debug\net5.0\MVC.DAL.dll
+F:\MVC Solution\MVC.DAL\bin\Debug\net5.0\MVC.DAL.pdb
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.dll
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\refint\MVC.DAL.dll
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.pdb
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\MVC.DAL.genruntimeconfig.cache
+F:\MVC Solution\MVC.DAL\obj\Debug\net5.0\ref\MVC.DAL.dll
